@@ -2,7 +2,6 @@
 # main menu
 print("\x1b[1;32;41m" + "           N I M - 2 1          " + "\x1b[0m")
 print("Created by Kareem Hasseeb\n")
-restart = 1
 
 
 def turnChecker(n):
@@ -13,6 +12,7 @@ def turnChecker(n):
     return turn
 
 
+restart = 1
 while restart != "x":
     player1 = input("Enter Player1 Name: ")
     if player1 == "":
