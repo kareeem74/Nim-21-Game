@@ -1,4 +1,4 @@
-# My name is Kareem Hasseeb, Iam student at FCAI_CU <3
+# My name is Kareem Hasseeb, Iam a student at FCAI_CU <3
 # main menu
 print("\x1b[1;32;41m" + "           N I M - 2 1          " + "\x1b[0m")
 print("Created by Kareem Hasseeb\n")
